@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Request for ride&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;there is two type of request&amp;nbsp;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="236" y="236" width="204" height="90" as="geometry" />
+          <mxGeometry x="230" y="210" width="204" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="246" y="126" width="90" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="188.49999999999991" y="510" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="691" y="60.00000000000002" width="90" height="60" as="geometry" />
+          <mxGeometry x="1040" y="60.00000000000002" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="353.50000000000006" y="650" width="90" height="60" as="geometry" />
